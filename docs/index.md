@@ -15,7 +15,7 @@ The Maintainer of the Wiki is: Jesse, WH6AV
 Questions about the Wiki? There are multiple ways to ask them:
 
 * In the Wiki Chat Channel on the Discord Server.
-* Reach out via DM on Discord to Jesse, WH6AV (@WH6AV - Jesse - 3115069#2552)
+* Reach out via DM on Discord to Jesse, WH6AV (@wh6avjesse3115069)
 * Email: wh6av808@gmail.com
 * HOIP Ext: 100000 (leave a voicemail if no answer)
 
