@@ -1,4 +1,7 @@
 # Changelog
+* 08/15/2023 - Jonathan, KC8CPW
+    * Updates and correction to various pages to replace N8ACL with KC8CPW
+    * Updated WH6AV Discord id
 
 * 09/07/2022 - Jeff, N8ACL
     * Updates to Conference Bridge Contact List
